@@ -1,5 +1,7 @@
 # 🔀 BFF Agendador de Tarefas — Backend For Frontend
 
+> 🎓 Projeto desenvolvido durante o curso da Javanauta Academy, aplicando na prática o padrão BFF (Backend for Frontend) e a orquestração de microsserviços com Spring Boot e OpenFeign.
+
 Serviço **BFF (Backend for Frontend)** da plataforma **Agendador de Tarefas**. Atua como ponto de entrada único para o cliente (frontend/mobile), orquestrando chamadas aos microsserviços internos (`usuario`, `agendador-tarefas`, `notificacao`) via **OpenFeign**. Expõe uma API REST documentada com **Swagger/OpenAPI**.
 
 ---
